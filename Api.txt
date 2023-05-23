@@ -1,0 +1,9 @@
+Api 
+
+Туры - https://641f25bbf228f1a83eb181ff.mockapi.io/tyrs
+Корзина - https://637f91ca2f8f56e28e904e7d.mockapi.io/cart
+Избранные - https://637f91ca2f8f56e28e904e7d.mockapi.io/favprites
+Форма - https://637f91ca2f8f56e28e904e7d.mockapi.io/form
+
+
+					
